@@ -6,7 +6,7 @@
 
 🎓 First Class BSc in Game Design and Development, London South Bank University.
 
-📫 Playable builds: itch.io/bopbop-studios
+📫 Playable builds: bopbop-studios.itch.io
 
 <!---
 Viserren/Viserren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
